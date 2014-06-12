@@ -21,7 +21,6 @@ sort_info: 10
 
     <p class="text-justify">L'idée du club est de développer de manière collaborative un jeu vidéo, depuis la conception initiale jusqu'aux tests du jeu fini. Chacun apporte ses compétences et sa bonne humeur pour faire progresser le projet auquel il participe.</p>
 
-    <p></p>
   </div>
 
   <div class="col-md-4">
@@ -40,7 +39,7 @@ sort_info: 10
   <div class="col-md-4">
     <h3><span class="glyphicon glyphicon-info-sign"></span> Club</h3>
 
-    <p class="text-justify">Le club se réunit tous les <strong>mardi de 18h00 à 19h30</strong> en <strong>salle 401C de l'UFR Sciences et Techniques</strong>. Si vous êtes intéressés, n'hésitez pas à passer et à venir discuter.</p>
+    <p class="text-justify">Le club se réunit tous les <strong>mardi de 18h00 à 19h30</strong> en <strong>salle 401C de l'UFR Sciences et Techniques</strong>. Si vous êtes intéressés, n'hésitez pas à passer et à venir discuter, nous répondrons à toutes vos questions.</p>
 
     <p class="text-center"><a class="btn btn-info" href="club.html" role="button"><span class="glyphicon glyphicon-cog"></span> En savoir plus sur le Club</a></p>
 

@@ -7,7 +7,38 @@ sort_info: 30
 
 <h2><span class="glyphicon glyphicon-info-sign"></span> Club</h2>
 
-<div class="alert alert-warning">
-  <p>En construction...</p>
-</div>
+<div class="row">
+  <div class="col-md-6">
+    <h3><span class="glyphicon glyphicon-wrench"></span> Fonctionnement du club</h3>
 
+    <p class="text-justify">Le club se réunit tous les <strong>mardi de 18h00 à 19h30</strong> (en dehors des vacances universitaires) en <strong>salle 401C de l'UFR Sciences et Techniques</strong> (4<sup>è</sup> étage de l'aile C du bâtiment Métrologie). Pour vous y rendre, consultez <a href="http://sciences.univ-fcomte.fr/pages/fr/menu3795/ufr-st/plans-15171.html">le plan d'accès disponible sur le site de l'UFR Sciences et Techniques</a> ou via <a href="http://www.openstreetmap.org/#map=18/47.24535/5.98747">OpenStreetMap</a>.</p>
+
+    <p class="text-justify">Le club est ouvert à tous les étudiants de l'Université de Franche-Comté. Il est encadré par des enseignants-chercheurs du <a href="https://dept-info.univ-fcomte.fr/">Département Informatique de l'UFR Sciences et Techniques</a> qui participent également aux différents projets.</p>
+
+    <h3><span class="glyphicon glyphicon-fast-backward"></span> Historique du club</h3>
+
+    <p>Le club est né en 2014 et a inauguré ses premières activités à la rentrée de septembre 2014.</p>
+
+  </div>
+
+  <div class="col-md-6">
+    <h3><span class="glyphicon glyphicon-question-sign"></span> Questions fréquentes</h3>
+
+    <dl class="text-justify">
+      <dt>Je ne suis pas étudiant en informatique, puis-je participer au club ?</dt>
+      <dd>Oui ! Il y a beaucoup de compétences à avoir pour développer un jeu vidéo en dehors de l'informatique. On peut citer le graphisme (pour les sprites), la musique (pour les sons et l'ambiance), la physique (pour les moteurs physiques), les mathématiques (pour la géométrie), la littérature (pour les scénarios), l'histoire (pour le contexte du jeu), l'économie (pour l'équilibre des règles), etc.</dd>
+
+      <dt>Est-il est prévu d'organiser des tournois de jeux vidéo ?</dt>
+      <dd>Non ! Le club est un club de <em>développement</em> de jeux vidéo, pas un club de pratique du jeu vidéo. Pour pratiquer le jeu vidéo, il existe  <a href="http://www.esportfc.org/">eSport Franche-Comté</a>, une association qui organise des LAN party, ou l'<a href="https://www.facebook.com/EbarBesancon">E-Bar à Besançon</a>, un bar où il est possible de jouer à des jeux vidéos.</dd>
+
+      <dt>Pourquoi ce nom de <abbr title="Dead Pixels Society">DPS</abbr> ?</dt>
+      <dd>DPS signifie Dead Pixels Society. Premièrement, c'est une référence au célèbre film <cite><a href="http://en.wikipedia.org/wiki/Dead_Poets_Society">Dead Poets Society</a></cite> (<cite>Le Cercle des Poètes Disparus</cite> en français). Mais DPS est également un acronyme bien connu des joueurs, en particulier des joueurs en ligne, et qui signifie <a href="http://www.jeuxonline.info/lexique/mot/DPS">dégats par seconde</a>.</dd>
+
+      <!--
+      <dt></dt>
+      <dd></dd>
+      -->
+    </dl>
+
+  </div>
+</div>
