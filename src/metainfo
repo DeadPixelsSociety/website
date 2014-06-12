@@ -1,0 +1,9 @@
+--- paths
+[/**/*.eot, /**/*.ttf, /**/*.svg, /**/*.woff]:
+  handler: copy
+
+/**/*.ogv:
+  handler: copy
+
+/robots.txt:
+  handler: copy
