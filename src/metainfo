@@ -2,7 +2,7 @@
 [/**/*.eot, /**/*.ttf, /**/*.svg, /**/*.woff]:
   handler: copy
 
-/**/*.ogv:
+/**/*.pdf:
   handler: copy
 
 /robots.txt:

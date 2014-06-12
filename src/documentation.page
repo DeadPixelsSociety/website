@@ -1,0 +1,45 @@
+---
+short_title: Documentation
+title: <span class="glyphicon glyphicon-book"></span> Documentation
+in_menu: true
+sort_info: 40
+---
+
+<h2><span class="glyphicon glyphicon-book"></span> Documentation</h2>
+
+<div class="row">
+  <div class="col-md-6">
+    <h3><span class="glyphicon glyphicon-picture"></span> Présentations</h3>
+
+    <p class="text-justify">Ces présentations ont pour but de présenter certains aspects du jeu vidéo, qu'ils soient techniques ou non-techniques. Elles sont généralement courtes de manière à pouvoir être présentées rapidement pendant une session du club.</p>
+
+    <ul>
+      <li><a href="media/game_loop.pdf">Architecture générale d'un jeu vidéo</a></li>
+    </ul>
+
+  </div>
+
+  <div class="col-md-6">
+    <h3><span class="glyphicon glyphicon-link"></span> Liens</h3>
+
+    <p class="text-justify">Les liens données ici sont des resources vers de la documentation extérieure. Ils ne concernent pas uniquement le jeu vidéo mais également les infrastructures de développement ou des sujets annexes aux jeux vidéos.</p>
+
+    <h4>Articles</h4>
+
+    <ul>
+      <li><a href="http://www.hobbygamedev.com/articles/vol7/establishing-a-videogame-development-club/">Establishing a Videogame Development Club</a>, Chris DeLeon</li>
+      <li><a href="http://scientificninja.com/blog/write-games-not-engines">Write Games, Not Engines</a>, Josh Petrie</li>
+    </ul>
+
+    <h4>Git</h4>
+
+    <ul>
+      <li><a href="http://gitref.org/">Git Reference</a>, Scott Chacon</li>
+      <li><a href="http://nvie.com/posts/a-successful-git-branching-model/">A successful Git branching model</a>, Vincent Driessen</li>
+      <!-- <li><a href=""></a></li> -->
+    </ul>
+
+  </div>
+</div>
+
+

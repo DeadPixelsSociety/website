@@ -34,7 +34,7 @@ sort_info: 10
       <li>À venir...</li>
     </ul>
 
-    <p class="text-center"><a class="btn btn-info" href="projects.html" role="button"><span class="glyphicon glyphicon-cog"></span> En savoir plus sur les projets</a></p>
+    <p class="text-center"><a class="btn btn-info" href="projects.html" role="button"><span class="glyphicon glyphicon-cog"></span> En savoir plus sur les Projets</a></p>
   </div>
 
   <div class="col-md-4">
@@ -42,9 +42,10 @@ sort_info: 10
 
     <p class="text-justify">Le club se réunit tous les <strong>mardi de 18h00 à 19h30</strong> en <strong>salle 401C de l'UFR Sciences et Techniques</strong>. Si vous êtes intéressés, n'hésitez pas à passer et à venir discuter.</p>
 
-    <p></p>
+    <p class="text-center"><a class="btn btn-info" href="club.html" role="button"><span class="glyphicon glyphicon-cog"></span> En savoir plus sur le Club</a></p>
 
-    <p class="text-center"><a class="btn btn-info" href="club.html" role="button"><span class="glyphicon glyphicon-cog"></span> En savoir plus sur le club</a></p>
+    <h3><span class="glyphicon glyphicon-book"></span> Documentation</h3>
+
   </div>
 </div>
 
