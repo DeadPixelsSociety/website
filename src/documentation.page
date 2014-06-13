@@ -41,6 +41,7 @@ sort_info: 40
     <ul>
       <li><a href="http://www.boost.org/">Boost</a>&nbsp;: <a href="http://www.boost.org/doc/libs/">documentation</a></li>
       <li><a href="http://sfml-dev.org/"><abbr title="Simple and Fast Multimedia Library">SFML</abbr></a>&nbsp;: <a href="http://sfml-dev.org/tutorials/2.1/">tutoriels</a> &ndash; <a href="http://sfml-dev.org/documentation/2.1/">API</a></li>
+      <li><a href="http://www.libsdl.org/"><abbr title="Simple DirectMedia Layer">SDL</abbr></a>&nbsp;: <a href="http://wiki.libsdl.org/APIByCategory">API</a></li>
       <li><a href="http://box2d.org/">Box2D</a>&nbsp;: <a href="http://www.iforce2d.net/b2dtut/">tutoriels</a></li>
     </ul>
 
