@@ -8,48 +8,75 @@ sort_info: 40
 <h2><span class="glyphicon glyphicon-book"></span> Documentation</h2>
 
 <div class="row">
-  <div class="col-md-6">
+  <div class="col-md-4">
     <h3><span class="glyphicon glyphicon-picture"></span> Présentations</h3>
 
     <p class="text-justify">Ces présentations ont pour but de présenter certains aspects du jeu vidéo, qu'ils soient techniques ou non-techniques. Elles sont généralement courtes de manière à pouvoir être présentées rapidement pendant une session du club.</p>
 
     <ul>
       <li><a href="media/game_loop.pdf">Architecture générale d'un jeu vidéo</a></li>
+      <li><a href="media/physics.pdf">Moteur physique : force, vitesse et position</a></li>
     </ul>
 
   </div>
 
-  <div class="col-md-6">
-    <h3><span class="glyphicon glyphicon-link"></span> Liens</h3>
+  <div class="col-md-4">
 
-    <p class="text-justify">Les liens données ici sont des resources vers de la documentation extérieure. Ils ne concernent pas uniquement le jeu vidéo mais également les infrastructures de développement ou des sujets annexes aux jeux vidéos.</p>
+    <h3><span class="glyphicon glyphicon-pencil"></span> Articles</h3>
 
-    <h4>Articles</h4>
+    <p class="text-justify">Une sélection d'articles intéressants à propos du développement de jeux vidéo.</p>
+
+    <h4>Articles généraux</h4>
 
     <ul>
-      <li><a href="http://www.hobbygamedev.com/articles/vol7/establishing-a-videogame-development-club/">Establishing a Videogame Development Club</a>, Chris DeLeon</li>
-      <li><a href="http://scientificninja.com/blog/write-games-not-engines">Write Games, Not Engines</a>, Josh Petrie</li>
+      <li><a href="http://www.hobbygamedev.com/articles/vol7/establishing-a-videogame-development-club/">Establishing a Videogame Development Club</a></li>
+      <li><a href="http://gamedevelopment.tutsplus.com/articles/making-your-first-game-a-walkthrough-for-game-developers--gamedev-5204">Making Your First Game: A Walkthrough for Game Developers</a></li>
+      <li><a href="http://scientificninja.com/blog/write-games-not-engines">Write Games, Not Engines</a></li>
+      <li><a href="http://makegames.tumblr.com/post/1136623767/finishing-a-game">Finishing a Game</a></li>
+      <li><a href="http://gamedevelopment.tutsplus.com/articles/1gam-how-to-succeed-at-making-one-game-a-month--gamedev-3695">How to Succeed at Making One Game a Month</a></li>
     </ul>
+
+    <h4>Articles techniques</h4>
+
+    <ul>
+      <li><a href="http://gamedevelopment.tutsplus.com/tutorials/create-custom-2d-physics-engine-aabb-circle-impulse-resolution--gamedev-6331">How to Create a Custom 2D Physics Engine: The Basics and Impulse Resolution</a></li>
+      <li><a href="https://developer.valvesoftware.com/wiki/Latency_Compensating_Methods_in_Client/Server_In-game_Protocol_Design_and_Optimization">Latency Compensating Methods in Client/Server In-game Protocol Design and Optimization</a></li>
+    </ul>
+
+  </div>
+
+  <div class="col-md-4">
+    <h3><span class="glyphicon glyphicon-link"></span> Liens</h3>
+
+    <p class="text-justify">Les liens données ici sont des resources vers de la documentation extérieure. Ils concernent aussi bien la programmation en général que les infrastructures de développement ou les outils propres aux jeux vidéos.</p>
 
     <h4>C++ et ses bibliothèques</h4>
 
     <ul>
-      <li><a href="http://en.cppreference.com/w/cpp">C++ reference</a></li>
-      <li><a href="https://isocpp.org/faq">C++ FAQ</a></li>
+      <li><a href="http://en.cppreference.com/w/cpp">C++ reference</a>: la documentation très complète de la bibliothèque standard du C++</li>
+      <li><a href="https://isocpp.org/faq">C++ FAQ</a>: des réponses à toutes les questions que vous vous posez à propos de C++</li>
     </ul>
 
     <ul>
-      <li><a href="http://www.boost.org/">Boost</a>&nbsp;: <a href="http://www.boost.org/doc/libs/">documentation</a></li>
-      <li><a href="http://sfml-dev.org/"><abbr title="Simple and Fast Multimedia Library">SFML</abbr></a>&nbsp;: <a href="http://sfml-dev.org/tutorials/2.1/">tutoriels</a> &ndash; <a href="http://sfml-dev.org/documentation/2.1/">API</a></li>
-      <li><a href="http://www.libsdl.org/"><abbr title="Simple DirectMedia Layer">SDL</abbr></a>&nbsp;: <a href="http://wiki.libsdl.org/APIByCategory">API</a></li>
-      <li><a href="http://box2d.org/">Box2D</a>&nbsp;: <a href="http://www.iforce2d.net/b2dtut/">tutoriels</a></li>
+      <li><a href="http://www.boost.org/">Boost</a>&nbsp;: une collection de bibliothèques C++ de grande qualité et portables (<a href="http://www.boost.org/doc/libs/">documentation</a>)</li>
+      <li><a href="http://sfml-dev.org/"><abbr title="Simple and Fast Multimedia Library">SFML</abbr></a>&nbsp;: une bibliothèque graphique complète en C++ et multi-plateforme (<a href="http://sfml-dev.org/tutorials/2.1/">tutoriels</a> &ndash; <a href="http://sfml-dev.org/documentation/2.1/">API</a>)</li>
+      <li><a href="http://www.libsdl.org/"><abbr title="Simple DirectMedia Layer">SDL</abbr></a>&nbsp;: une bibliothèque graphique complète en C et multi-plateforme (<a href="http://wiki.libsdl.org/APIByCategory">API</a>)</li>
+      <li><a href="http://box2d.org/">Box2D</a>&nbsp;: un moteur physique 2D conçu pour les jeux vidéo (<a href="http://www.iforce2d.net/b2dtut/">tutoriels</a>)</li>
+    </ul>
+
+    <h4>Outils et moteurs de jeux</h4>
+
+    <ul>
+      <li><a href="http://www.mapeditor.org/">Tiled</a>&nbsp;: un éditeur de carte pour les jeux vidéo à base de tuiles</li>
+      <li><a href="http://polycode.org/">Polycode</a>&nbsp;: un moteur de jeu 2D et 3D en C++ avec un éditeur</li>
+      <li><a href="http://love2d.org/">LÖVE</a>&nbsp; un moteur de jeu 2D basé sur des scripts en Lua</li>
     </ul>
 
     <h4>Git</h4>
 
     <ul>
-      <li><a href="http://gitref.org/">Git Reference</a>, Scott Chacon</li>
-      <li><a href="http://nvie.com/posts/a-successful-git-branching-model/">A successful Git branching model</a>, Vincent Driessen</li>
+      <li><a href="http://gitref.org/">Git Reference</a></li>
+      <li><a href="http://nvie.com/posts/a-successful-git-branching-model/">A successful Git branching model</a></li>
       <!--
       <li><a href=""></a></li>
       -->
