@@ -13,7 +13,18 @@ sort_info: 30
 
     <p class="text-justify">Le club se réunit tous les <strong>mardi de 18h00 à 19h30</strong> (en dehors des vacances universitaires) en <strong>salle 401C de l'UFR Sciences et Techniques</strong> (4<sup>è</sup> étage de l'aile C du bâtiment Métrologie). Pour vous y rendre, consultez <a href="http://sciences.univ-fcomte.fr/pages/fr/menu3795/ufr-st/plans-15171.html">le plan d'accès disponible sur le site de l'UFR Sciences et Techniques</a> ou via <a href="http://www.openstreetmap.org/#map=18/47.24535/5.98747">OpenStreetMap</a>.</p>
 
+    <div id="map"></div>
+
     <p class="text-justify">Le club est ouvert à tous les étudiants de l'Université de Franche-Comté. Il est encadré par des enseignants-chercheurs du <a href="https://dept-info.univ-fcomte.fr/">Département Informatique de l'UFR Sciences et Techniques</a> qui participent également aux différents projets.</p>
+
+    <h3><span class="glyphicon glyphicon-envelope"></span> Adresse postale</h3>
+
+    <div class="alert alert-info">
+      Dead Pixels Society<br/>
+      Université de Franche-Comté &ndash; Département d'Informatique<br/>
+      16 route de Gray<br/>
+      25030 BESANÇON CEDEX FRANCE
+    </div>
 
     <h3><span class="glyphicon glyphicon-fast-backward"></span> Historique du club</h3>
 
@@ -28,11 +39,14 @@ sort_info: 30
       <dt>Je ne suis pas étudiant en informatique, puis-je participer au club ?</dt>
       <dd>Oui ! Il y a beaucoup de compétences à avoir pour développer un jeu vidéo en dehors de l'informatique. On peut citer le graphisme (pour les sprites), la musique (pour les sons et l'ambiance), la physique (pour les moteurs physiques), les mathématiques (pour la géométrie), la littérature (pour les scénarios), l'histoire (pour le contexte du jeu), l'économie (pour l'équilibre des règles), etc.</dd>
 
+      <dt>Y a-t-il une cotisation à payer ?</dt>
+      <dd>Non ! Le Département Informatique soutient le club au niveau matériel. Le club dispose ainsi d'ordinateurs portables de récupération qu'il est possible d'utiliser pendant les sessions du club.</dd>
+
       <dt>Est-il est prévu d'organiser des tournois de jeux vidéo ?</dt>
       <dd>Non ! Le club est un club de <em>développement</em> de jeux vidéo, pas un club de pratique du jeu vidéo. Pour pratiquer le jeu vidéo, il existe  <a href="http://www.esportfc.org/">eSport Franche-Comté</a>, une association qui organise des LAN party, ou l'<a href="https://www.facebook.com/EbarBesancon">E-Bar à Besançon</a>, un bar où il est possible de jouer à des jeux vidéos.</dd>
 
       <dt>Pourquoi ce nom de <abbr title="Dead Pixels Society">DPS</abbr> ?</dt>
-      <dd>DPS signifie Dead Pixels Society. Premièrement, c'est une référence au célèbre film <cite><a href="http://en.wikipedia.org/wiki/Dead_Poets_Society">Dead Poets Society</a></cite> (<cite>Le Cercle des Poètes Disparus</cite> en français). Mais DPS est également un acronyme bien connu des joueurs, en particulier des joueurs en ligne, et qui signifie <a href="http://www.jeuxonline.info/lexique/mot/DPS">dégats par seconde</a>.</dd>
+      <dd>DPS signifie Dead Pixels Society. Tout d'abord, c'est une référence au célèbre film <cite><a href="http://en.wikipedia.org/wiki/Dead_Poets_Society">Dead Poets Society</a></cite> (<cite>Le Cercle des Poètes Disparus</cite> en français). Mais DPS est également un acronyme bien connu des joueurs, en particulier des joueurs en ligne, et qui signifie <a href="http://www.jeuxonline.info/lexique/mot/DPS">dégats par seconde</a>. Enfin, un <a href="http://fr.wikipedia.org/wiki/Pixel_mort">pixel mort</a> (<em>dead pixel</em> en anglais) est une défaillance classique sur un écran d'ordinateur.</dd>
 
       <!--
       <dt></dt>
@@ -42,3 +56,28 @@ sort_info: 30
 
   </div>
 </div>
+
+--- stylesheets
+
+<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+
+--- scripts
+
+<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+<script>
+var x = 47.2457;
+var y = 5.98747;
+
+// create a map in the "map" div, set the view to a given place and zoom
+var map = L.map('map').setView([x, y], 17);
+
+// add an OpenStreetMap tile layer
+L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">contributeurs de OpenStreetMap</a>'
+}).addTo(map);
+
+// add a marker in the given location, attach some popup content to it and open the popup
+L.marker([x, y]).addTo(map)
+    .bindPopup('<strong>Dead Pixels Society</strong>')
+   .openPopup();
+</script>

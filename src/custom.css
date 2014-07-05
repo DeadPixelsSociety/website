@@ -1,8 +1,12 @@
 body {
   padding-top: 50px;
-  padding-bottom: 70px;
+/*   padding-bottom: 70px; */
 }
 
 cite {
   font-style: italic;
+}
+
+#map {
+  height: 300px;
 }

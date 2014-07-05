@@ -13,10 +13,10 @@
     <link rel="shortcut icon" href="{relocatable: favicon.ico}">
     <link rel="icon" type="image/png" href="{relocatable: favicon.png}">
 
-
     <link rel="stylesheet" href="{relocatable: css/bootstrap.min.css}">
     <link rel="stylesheet" href="{relocatable: css/bootstrap-theme.min.css}">
     <link rel="stylesheet" href="{relocatable: custom.css}">
+    <webgen:block name="stylesheets" notfound="ignore" />
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -49,7 +49,7 @@
       <webgen:block name="content" />
     </main><!-- /.container -->
 
-    <footer class="navbar navbar-default navbar-fixed-bottom">
+    <footer class="navbar navbar-default">
       <div class="container">
         <p class="navbar-text">Copyright &copy; 2014 Julien Bernard</p>
       </div>
@@ -57,5 +57,6 @@
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="{relocatable: js/bootstrap.min.js}"></script>
+    <webgen:block name="scripts" notfound="ignore" />
   </body>
 </html>
