@@ -16,6 +16,7 @@ sort_info: 40
     <ul>
       <li><a href="media/game_loop.pdf">Architecture générale d'un jeu vidéo</a></li>
       <li><a href="media/physics.pdf">Moteur physique : force, vitesse et position</a></li>
+      <li><a href="media/collisions.pdf">Moteur physique : collisions</a></li>
     </ul>
 
   </div>
@@ -77,6 +78,7 @@ sort_info: 40
     <ul>
       <li><a href="http://gitref.org/">Git Reference</a></li>
       <li><a href="http://nvie.com/posts/a-successful-git-branching-model/">A successful Git branching model</a></li>
+      <li><a href="http://ndpsoftware.com/git-cheatsheet.html">Git Cheatsheet</a></li>
       <!--
       <li><a href=""></a></li>
       -->
