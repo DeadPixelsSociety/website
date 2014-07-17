@@ -26,10 +26,6 @@ sort_info: 30
       25030 BESANÇON CEDEX FRANCE
     </div>
 
-    <h3><span class="glyphicon glyphicon-fast-backward"></span> Historique du club</h3>
-
-    <p>Le club est né en 2014 et a inauguré ses premières activités à la rentrée de septembre 2014.</p>
-
   </div>
 
   <div class="col-md-6">
@@ -53,6 +49,10 @@ sort_info: 30
       <dd></dd>
       -->
     </dl>
+
+    <h3><span class="glyphicon glyphicon-fast-backward"></span> Historique du club</h3>
+
+    <p>Le club est né en 2014 et a inauguré ses premières activités à la rentrée de septembre 2014.</p>
 
   </div>
 </div>
