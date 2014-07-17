@@ -15,6 +15,7 @@ sort_info: 40
 
     <ul>
       <li><a href="media/game_loop.pdf">Architecture générale d'un jeu vidéo</a></li>
+      <li><a href="media/coords2D.pdf">Système de coordonnées 2D</a></li>
       <li><a href="media/physics.pdf">Moteur physique : force, vitesse et position</a></li>
       <li><a href="media/collisions.pdf">Moteur physique : collisions</a></li>
     </ul>
