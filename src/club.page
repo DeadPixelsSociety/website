@@ -79,5 +79,5 @@ L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 // add a marker in the given location, attach some popup content to it and open the popup
 L.marker([x, y]).addTo(map)
     .bindPopup('<strong>Dead Pixels Society</strong>')
-   .openPopup();
+    .openPopup();
 </script>
