@@ -16,8 +16,9 @@ sort_info: 40
     <ul>
       <li><a href="media/game_loop.pdf">Architecture générale d'un jeu vidéo</a></li>
       <li><a href="media/coords2D.pdf">Système de coordonnées 2D</a></li>
-      <li><a href="media/physics.pdf">Moteur physique : force, vitesse et position</a></li>
-      <li><a href="media/collisions.pdf">Moteur physique : collisions</a></li>
+      <li><a href="media/transformations.pdf">Transformations 2D</a></li>
+      <li><a href="media/physics.pdf">Moteur physique&nbsp;: force, vitesse et position</a></li>
+      <li><a href="media/collisions.pdf">Moteur physique&nbsp;: collisions</a></li>
     </ul>
 
   </div>
@@ -55,8 +56,9 @@ sort_info: 40
     <h4>C++ et ses bibliothèques</h4>
 
     <ul>
-      <li><a href="http://en.cppreference.com/w/cpp">C++ reference</a>: la documentation très complète de la bibliothèque standard du C++</li>
-      <li><a href="https://isocpp.org/faq">C++ FAQ</a>: des réponses à toutes les questions que vous vous posez à propos de C++</li>
+      <li><a href="http://henri.garreta.perso.luminy.univmed.fr/Polys/PolyCpp.pdf">Le langage C++ [pdf]</a>&nbsp;: un polycopié pour apprendre les spécificités de C++</li>
+      <li><a href="http://en.cppreference.com/w/cpp">C++ reference</a>&nbsp;: la documentation très complète de la bibliothèque standard du C++</li>
+      <li><a href="https://isocpp.org/faq">C++ FAQ</a>&nbsp;: des réponses à toutes les questions que vous vous posez à propos de C++</li>
     </ul>
 
     <ul>
@@ -70,6 +72,7 @@ sort_info: 40
 
     <ul>
       <li><a href="http://www.mapeditor.org/">Tiled</a>&nbsp;: un éditeur de carte pour les jeux vidéo à base de tuiles</li>
+      <li><a href="http://devnewton.bci.im/fr/softwares/nanim">Nanim</a>&nbsp;: un format d'animation 2D basé sur protobuf pour les jeux vidéos</li>
       <li><a href="http://polycode.org/">Polycode</a>&nbsp;: un moteur de jeu 2D et 3D en C++ avec un éditeur</li>
       <li><a href="http://love2d.org/">LÖVE</a>&nbsp; un moteur de jeu 2D basé sur des scripts en Lua</li>
     </ul>
