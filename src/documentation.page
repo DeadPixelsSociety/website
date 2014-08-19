@@ -14,9 +14,15 @@ sort_info: 40
     <p class="text-justify">Ces présentations ont pour but de présenter certains aspects du jeu vidéo, qu'ils soient techniques ou non-techniques. Elles sont généralement courtes de manière à pouvoir être présentées rapidement pendant une session du club.</p>
 
     <ul>
+      <li><a href="media/club.pdf">Présentation de Dead Pixels Society</a></li>
+      <li><a href="media/libre.pdf">Droit d'auteur et licences libre</a></li>
+    </ul>
+
+    <ul>
       <li><a href="media/game_loop.pdf">Architecture générale d'un jeu vidéo</a></li>
       <li><a href="media/coords2D.pdf">Système de coordonnées 2D</a></li>
       <li><a href="media/transformations.pdf">Transformations 2D</a></li>
+      <li><a href="media/sprites.pdf">Sprites et animations</a></li>
       <li><a href="media/physics.pdf">Moteur physique&nbsp;: force, vitesse et position</a></li>
       <li><a href="media/collisions.pdf">Moteur physique&nbsp;: collisions</a></li>
     </ul>
@@ -41,8 +47,24 @@ sort_info: 40
 
     <h4>Articles techniques</h4>
 
+    <h5>Graphisme</h5>
+
     <ul>
-      <li><a href="http://gamedevelopment.tutsplus.com/tutorials/create-custom-2d-physics-engine-aabb-circle-impulse-resolution--gamedev-6331">How to Create a Custom 2D Physics Engine: The Basics and Impulse Resolution</a></li>
+      <li><a href="http://gamedevelopment.tutsplus.com/tutorials/an-introduction-to-spritesheet-animation--gamedev-13099">An Introduction to Spritesheet Animation</a></li>
+    </ul>
+
+    <h5>Physique</h5>
+
+    <ul>
+      <li><a href="http://gafferongames.com/game-physics/">Game Physics</a></li>
+      <li><a href="http://gamedevelopment.tutsplus.com/series/how-to-create-a-custom-physics-engine--gamedev-12715">How to Create a Custom Physics Engine</a></li>
+    </ul>
+
+    <h5>Réseau</h5>
+
+    <ul>
+      <li><a href="http://gafferongames.com/networking-for-game-programmers/">Game Networking</a></li>
+      <li><a href="http://gafferongames.com/game-physics/networked-physics/">Networked Physics</a></li>
       <li><a href="https://developer.valvesoftware.com/wiki/Latency_Compensating_Methods_in_Client/Server_In-game_Protocol_Design_and_Optimization">Latency Compensating Methods in Client/Server In-game Protocol Design and Optimization</a></li>
     </ul>
 
@@ -59,6 +81,7 @@ sort_info: 40
       <li><a href="http://henri.garreta.perso.luminy.univmed.fr/Polys/PolyCpp.pdf">Le langage C++ [pdf]</a>&nbsp;: un polycopié pour apprendre les spécificités de C++</li>
       <li><a href="http://en.cppreference.com/w/cpp">C++ reference</a>&nbsp;: la documentation très complète de la bibliothèque standard du C++</li>
       <li><a href="https://isocpp.org/faq">C++ FAQ</a>&nbsp;: des réponses à toutes les questions que vous vous posez à propos de C++</li>
+      <li><a href="http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml">Google C++ Style Guide</a>&nbsp;: des recommandations parfois utiles sur les conventions en C++</li>
     </ul>
 
     <ul>
