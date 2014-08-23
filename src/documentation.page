@@ -73,7 +73,7 @@ sort_info: 40
   <div class="col-md-4">
     <h3><span class="glyphicon glyphicon-link"></span> Liens</h3>
 
-    <p class="text-justify">Les liens données ici sont des resources vers de la documentation extérieure. Ils concernent aussi bien la programmation en général que les infrastructures de développement ou les outils propres aux jeux vidéos.</p>
+    <p class="text-justify">Les liens données ici sont des resources vers de la documentation extérieure. Ils concernent aussi bien la programmation en général que les infrastructures de développement ou les outils propres aux jeux vidéo.</p>
 
     <h4>C++ et ses bibliothèques</h4>
 
@@ -95,7 +95,7 @@ sort_info: 40
 
     <ul>
       <li><a href="http://www.mapeditor.org/">Tiled</a>&nbsp;: un éditeur de carte pour les jeux vidéo à base de tuiles</li>
-      <li><a href="http://devnewton.bci.im/fr/softwares/nanim">Nanim</a>&nbsp;: un format d'animation 2D basé sur protobuf pour les jeux vidéos</li>
+      <li><a href="http://devnewton.bci.im/fr/softwares/nanim">Nanim</a>&nbsp;: un format d'animation 2D basé sur protobuf pour les jeux vidéo</li>
       <li><a href="http://polycode.org/">Polycode</a>&nbsp;: un moteur de jeu 2D et 3D en C++ avec un éditeur</li>
       <li><a href="http://love2d.org/">LÖVE</a>&nbsp; un moteur de jeu 2D basé sur des scripts en Lua</li>
     </ul>
