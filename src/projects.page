@@ -9,10 +9,21 @@ sort_info: 20
 
 <p class="alert alert-info">Les projets sont disponibles sur <a href="https://github.com/DeadPixelsSociety" class="alert-link">le compte github <tt>DeadPixelsSociety</tt></a>.</p>
 
-<h3>Année 2014&ndash;2015</h3>
+<div class="row">
+  <div class="col-md-4">
 
-<h4>Projet 1</h4>
+    <h3>Année 2014&ndash;2015</h3>
 
-<div class="alert alert-warning">
-  <p>En construction...</p>
+    <h4>Projet 1</h4>
+
+    <p class="text-justify">Bientôt la description du projet 1.</p>
+
+    <p class="text-center"><a class="btn btn-info" href="#" role="button"><span class="glyphicon glyphicon-cog"></span> En savoir plus sur le projet 1</a></p>
+  </div>
+
+  <div class="col-md-4">
+  </div>
+
+  <div class="col-md-4">
+  </div>
 </div>
