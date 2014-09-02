@@ -29,6 +29,12 @@ sort_info: 40
       <li><a href="media/collisions.pdf">Moteur physique&nbsp;: collisions</a></li>
     </ul>
 
+    <h4>Communication</h4>
+
+    <div class="thumbnail">
+      <a href="media/dps.pdf"><img src="media/dps.png" class="img-responsive" alt="Dead Pixels Society" /></a>
+    </div>
+
   </div>
 
   <div class="col-md-4">
