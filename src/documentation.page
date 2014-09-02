@@ -23,6 +23,7 @@ sort_info: 40
       <li><a href="media/game_loop.pdf">Architecture générale d'un jeu vidéo</a></li>
       <li><a href="media/coords2D.pdf">Système de coordonnées 2D</a></li>
       <li><a href="media/transformations.pdf">Transformations 2D</a></li>
+      <li><a href="media/colors.pdf">Couleurs et transparence</a></li>
       <li><a href="media/sprites.pdf">Sprites et animations</a></li>
       <li><a href="media/physics.pdf">Moteur physique&nbsp;: force, vitesse et position</a></li>
       <li><a href="media/collisions.pdf">Moteur physique&nbsp;: collisions</a></li>
@@ -58,6 +59,7 @@ sort_info: 40
 
     <ul>
       <li><a href="http://gamedevelopment.tutsplus.com/tutorials/an-introduction-to-spritesheet-animation--gamedev-13099">An Introduction to Spritesheet Animation</a></li>
+      <li><a href="https://developer.nvidia.com/content/alpha-blending-pre-or-not-pre">Alpha Blending: To Pre or Not To Pre</a></li>
     </ul>
 
     <h5>Physique</h5>
