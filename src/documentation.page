@@ -25,6 +25,7 @@ sort_info: 40
       <li><a href="media/transformations.pdf">Transformations 2D</a></li>
       <li><a href="media/colors.pdf">Couleurs et transparence</a></li>
       <li><a href="media/sprites.pdf">Sprites et animations</a></li>
+      <li><a href="media/tilemap.pdf">Décor à base de tuiles</a></li>
       <li><a href="media/physics.pdf">Moteur physique&nbsp;: force, vitesse et position</a></li>
       <li><a href="media/collisions.pdf">Moteur physique&nbsp;: collisions</a></li>
     </ul>
@@ -109,7 +110,7 @@ sort_info: 40
     <h4>Outils et moteurs de jeux</h4>
 
     <ul>
-      <li><a href="http://www.mapeditor.org/">Tiled</a>&nbsp;: un éditeur de carte pour les jeux vidéo à base de tuiles</li>
+      <li><a href="http://www.mapeditor.org/">Tiled</a>&nbsp;: un éditeur de décor et de carte à base de tuiles pour les jeux vidéo</li>
       <li><a href="http://devnewton.bci.im/fr/softwares/nanim">Nanim</a>&nbsp;: un format d'animation 2D basé sur protobuf pour les jeux vidéo</li>
       <li><a href="http://polycode.org/">Polycode</a>&nbsp;: un moteur de jeu 2D et 3D en C++ avec un éditeur</li>
       <li><a href="http://love2d.org/">LÖVE</a>&nbsp; un moteur de jeu 2D basé sur des scripts en Lua</li>
