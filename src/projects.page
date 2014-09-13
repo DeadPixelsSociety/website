@@ -10,20 +10,46 @@ sort_info: 20
 <p class="alert alert-info">Les projets sont disponibles sur <a href="https://github.com/DeadPixelsSociety" class="alert-link">le compte github <tt>DeadPixelsSociety</tt></a>.</p>
 
 <div class="row">
+  <h3>Année 2014&ndash;2015</h3>
+
   <div class="col-md-4">
-
-    <h3>Année 2014&ndash;2015</h3>
-
     <h4>Projet 1</h4>
 
     <p class="text-justify">Bientôt la description du projet 1.</p>
 
     <p class="text-center"><a class="btn btn-info" href="#" role="button"><span class="glyphicon glyphicon-cog"></span> En savoir plus sur le projet 1</a></p>
+
+
+    <h4>Projet 2</h4>
+
+    <p class="text-justify">Bientôt la description du projet 2.</p>
+
+    <p class="text-center"><a class="btn btn-info" href="#" role="button"><span class="glyphicon glyphicon-cog"></span> En savoir plus sur le projet 2</a></p>
+
   </div>
 
   <div class="col-md-4">
+    <h4>Projet 3</h4>
+
+    <p class="text-justify">Bientôt la description du projet 3.</p>
+
+    <p class="text-center"><a class="btn btn-info" href="#" role="button"><span class="glyphicon glyphicon-cog"></span> En savoir plus sur le projet 3</a></p>
+
+
+    <h4>Projet 4</h4>
+
+    <p class="text-justify">Bientôt la description du projet 4.</p>
+
+    <p class="text-center"><a class="btn btn-info" href="#" role="button"><span class="glyphicon glyphicon-cog"></span> En savoir plus sur le projet 4</a></p>
+
   </div>
 
   <div class="col-md-4">
+    <h4>Projet 5</h4>
+
+    <p class="text-justify">Bientôt la description du projet 5.</p>
+
+    <p class="text-center"><a class="btn btn-info" href="#" role="button"><span class="glyphicon glyphicon-cog"></span> En savoir plus sur le projet 5</a></p>
   </div>
+
 </div>
