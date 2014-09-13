@@ -5,13 +5,13 @@ in_menu: false
 sort_info: 200
 ---
 
-<h2><span class="glyphicon glyphicon-cog"></span> Projet X</h2>
+<h2><span class="glyphicon glyphicon-cog"></span> Projet Foo</h2>
 
 <div class="row">
   <div class="col-md-4">
     <h3><span class="glyphicon glyphicon-search"></span> Description</h3>
 
-    <p class="text-justify">Le projet X est ...</p>
+    <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit.</p>
 
   </div>
 
@@ -30,13 +30,21 @@ sort_info: 200
       <li>Prénom NOM, rôle</li>
       <li>Prénom NOM, rôle</li>
       <li>Prénom NOM, rôle</li>
+      <li>Prénom NOM, rôle</li>
+      <li>Prénom NOM, rôle</li>
+      <li>Prénom NOM, rôle</li>
+      <li>Prénom NOM, rôle</li>
+      <li>Prénom NOM, rôle</li>
+      <li>Prénom NOM, rôle</li>
+      <li>Prénom NOM, rôle</li>
     </ul>
 
     <h3><span class="glyphicon glyphicon-paperclip"></span> Informations</h3>
 
     <ul>
-      <li>Licence&nbsp;: </li>
-      <li>Sources&nbsp;: <a href="">DeadPixelsSociety/X</a></li>
+      <li>Année&nbsp;: 201X-201Y</li>
+      <li>Licence&nbsp;: <a href="http://opensource.org/licenses">Licence Bar</a></li>
+      <li>Sources&nbsp;: <a href="https://github.com/DeadPixelsSociety">DeadPixelsSociety/Foo</a></li>
     </ul>
   </div>
 
