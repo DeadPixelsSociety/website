@@ -1,0 +1,45 @@
+---
+short_title: Projet X
+title: <span class="glyphicon glyphicon-cog"></span> Projet X
+in_menu: false
+sort_info: 200
+---
+
+<h2><span class="glyphicon glyphicon-cog"></span> Projet X</h2>
+
+<div class="row">
+  <div class="col-md-4">
+    <h3><span class="glyphicon glyphicon-search"></span> Description</h3>
+
+    <p class="text-justify">Le projet X est ...</p>
+
+  </div>
+
+  <div class="col-md-4">
+    <h3><span class="glyphicon glyphicon-camera"></span> Captures d'écran</h3>
+
+    <div class="thumbnail">
+      <img src="placeholder.jpg" class="img-responsive" alt="Placeholder" />
+    </div>
+  </div>
+
+  <div class="col-md-4">
+    <h3><span class="glyphicon glyphicon-user"></span> Équipe</h3>
+
+    <ul>
+      <li>Prénom NOM, rôle</li>
+      <li>Prénom NOM, rôle</li>
+      <li>Prénom NOM, rôle</li>
+    </ul>
+
+    <h3><span class="glyphicon glyphicon-paperclip"></span> Informations</h3>
+
+    <ul>
+      <li>Licence&nbsp;: </li>
+      <li>Sources&nbsp;: <a href="">DeadPixelsSociety/X</a></li>
+    </ul>
+  </div>
+
+</div>
+
+
