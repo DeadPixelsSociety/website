@@ -5,5 +5,8 @@
 /**/*.pdf:
   handler: copy
 
+/**/*.tar.gz:
+  handler: copy
+
 /robots.txt:
   handler: copy
