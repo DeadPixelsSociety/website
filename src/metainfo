@@ -10,3 +10,10 @@
 
 /robots.txt:
   handler: copy
+
+--- alcn
+/projects/:
+    proxy_path: ../projects.html
+
+[/media/, /css/, /fonts/, /js/]:
+    proxy_path: ../index.html
