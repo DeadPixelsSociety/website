@@ -15,5 +15,8 @@
 /projects/:
     proxy_path: ../projects.html
 
-[/media/, /css/, /fonts/, /js/]:
+/media/:
+    proxy_path: ../documentation.html
+
+[/css/, /fonts/, /js/]:
     proxy_path: ../index.html
