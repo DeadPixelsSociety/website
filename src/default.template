@@ -40,6 +40,9 @@
         </div>
         <div class="collapse navbar-collapse">
           {menu: {options: {mi: {in_menu: true}, sort: true}}}
+          <ul class="nav navbar-nav">
+            <li class="nav-level1"><a href="http://www.dead-pixels-society.fr/" hreflang="fr"><span class="glyphicon glyphicon-comment"></span> Forum</a></li>
+          </ul>
         </div><!--/.nav-collapse -->
       </div>
     </nav>
