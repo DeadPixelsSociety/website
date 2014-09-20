@@ -93,6 +93,23 @@ sort_info: 40
       <li><a href="https://developer.valvesoftware.com/wiki/Latency_Compensating_Methods_in_Client/Server_In-game_Protocol_Design_and_Optimization">Latency Compensating Methods in Client/Server In-game Protocol Design and Optimization</a></li>
     </ul>
 
+    <h5>Génération procédurale</h5>
+
+    <ul>
+      <li><a href="http://pcg.wikidot.com/articles">Procedural Content Generation Wiki</a></li>
+      <li><a href="http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/">Polygonal Map Generation for Games</a></li>
+      <li><a href="http://www.gamedev.net/page/resources/_/technical/game-programming/procedural-level-generation-for-a-2d-platformer-r3794">Procedural Level Generation for a 2D Platformer</a></li>
+    </ul>
+
+    <h5>Recherche de chemin</h5>
+
+    <ul>
+      <li><a href="http://www.redblobgames.com/pathfinding/a-star/introduction.html">Introduction to A*</a></li>
+      <li><a href="http://theory.stanford.edu/~amitp/GameProgramming/">Amit’s A* Pages</a></li>
+      <li><a href="http://www.redblobgames.com/pathfinding/tower-defense/">Pathfinding for Tower Defense</a></li>
+      <li><a href="http://qiao.github.io/PathFinding.js/visual/">PathFinding.js</a></li>
+    </ul>
+
   </div>
 
   <div class="col-md-4">
