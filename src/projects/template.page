@@ -5,7 +5,7 @@ in_menu: false
 sort_info: 200
 ---
 
-<h2><span class="glyphicon glyphicon-cog"></span> Projet Foo</h2>
+<h2><span class="glyphicon glyphicon-cog"></span> Projet Foo <small>201X&ndash;201Y</small></h2>
 
 <div class="row">
   <div class="col-md-4">
@@ -44,7 +44,6 @@ sort_info: 200
     <h3><span class="glyphicon glyphicon-paperclip"></span> Informations</h3>
 
     <ul>
-      <li>Année&nbsp;: 201X-201Y</li>
       <li>Licence&nbsp;: <a href="http://opensource.org/licenses">Licence Bar</a></li>
       <li>Sources&nbsp;: <a href="https://github.com/DeadPixelsSociety">DeadPixelsSociety/Foo</a></li>
     </ul>
