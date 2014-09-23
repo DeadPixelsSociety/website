@@ -29,23 +29,23 @@ sort_info: 200
     <h3><span class="glyphicon glyphicon-user"></span> Équipe</h3>
 
     <ul>
-      <li>Prénom NOM, rôle</li>
-      <li>Prénom NOM, rôle</li>
-      <li>Prénom NOM, rôle</li>
-      <li>Prénom NOM, rôle</li>
-      <li>Prénom NOM, rôle</li>
-      <li>Prénom NOM, rôle</li>
-      <li>Prénom NOM, rôle</li>
-      <li>Prénom NOM, rôle</li>
-      <li>Prénom NOM, rôle</li>
-      <li>Prénom NOM, rôle</li>
+      <li>David ALVEZ, développement</li>
+      <li>François-Xavier BELIGAT, développement réseau</li>
+      <li>Julien BERNARD, développement, level design</li>
+      <li>Arnaud COLIN, développement</li>
+      <li>Antoine DE GIETER, développement</li>
+      <li>Vincent DURAND, graphisme, level design</li>
+      <li>Junior DUSSOUILLEZ, développement réseau</li>
+      <li>Lilian FRANCHI, développement, son</li>
+      <li>Rémy GRIMMER, développement</li>
+      <li>Kévin TORAZZI, développement</li>
     </ul>
 
     <h3><span class="glyphicon glyphicon-paperclip"></span> Informations</h3>
 
     <ul>
-      <li>Licence&nbsp;: <a href="http://opensource.org/licenses">Licence Bar</a></li>
-      <li>Sources&nbsp;: <a href="https://github.com/DeadPixelsSociety">DeadPixelsSociety/Foo</a></li>
+      <li>Licence&nbsp;: <a href="http://opensource.org/licenses/AGPL-3.0">AGPL 3.0</a></li>
+      <li>Sources&nbsp;: <a href="https://github.com/DeadPixelsSociety/gzzzt">DeadPixelsSociety/gzzzt</a></li>
     </ul>
   </div>
 

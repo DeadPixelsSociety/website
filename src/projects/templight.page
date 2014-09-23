@@ -29,16 +29,10 @@ sort_info: 200
     <h3><span class="glyphicon glyphicon-user"></span> Équipe</h3>
 
     <ul>
+      <li>Jordan MARTIN, développement</li>
+      <!--
       <li>Prénom NOM, rôle</li>
-      <li>Prénom NOM, rôle</li>
-      <li>Prénom NOM, rôle</li>
-      <li>Prénom NOM, rôle</li>
-      <li>Prénom NOM, rôle</li>
-      <li>Prénom NOM, rôle</li>
-      <li>Prénom NOM, rôle</li>
-      <li>Prénom NOM, rôle</li>
-      <li>Prénom NOM, rôle</li>
-      <li>Prénom NOM, rôle</li>
+      -->
     </ul>
 
     <h3><span class="glyphicon glyphicon-paperclip"></span> Informations</h3>
