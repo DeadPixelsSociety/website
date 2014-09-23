@@ -31,7 +31,11 @@ sort_info: 10
 
     <p>Pour cette année (2014&ndash;2015), voici le(s) projet(s)&nbsp;:</p>
     <ul>
-      <li>À venir...</li>
+      <li><strong><a href="projects/gzzzt.html">Gzzzt</a></strong></li>
+      <li><strong><a href="projects/life_after_earth_iii.html">Life After Earth III</a></strong></li>
+      <li><strong><a href="projects/pirates.html">P.I.R.A.T.E.S.</a></strong></li>
+      <li><strong><a href="projects/sky_piercer.html">Sky Piercer</a></strong></li>
+      <li><strong><a href="projects/templight.html">Templight</a></strong></li>
     </ul>
 
     <p class="text-center"><a class="btn btn-info" href="projects.html" role="button"><span class="glyphicon glyphicon-cog"></span> En savoir plus sur les Projets</a></p>
