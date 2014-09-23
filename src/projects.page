@@ -13,43 +13,43 @@ sort_info: 20
   <h3>Année 2014&ndash;2015</h3>
 
   <div class="col-md-4">
-    <h4>Projet 1</h4>
+    <h4>Gzzzt</h4>
 
-    <p class="text-justify">Bientôt la description du projet 1.</p>
+    <p class="text-justify">Bientôt la description du projet Gzzzt.</p>
 
-    <p class="text-center"><a class="btn btn-info" href="#" role="button"><span class="glyphicon glyphicon-cog"></span> En savoir plus sur le projet 1</a></p>
-
-
-    <h4>Projet 2</h4>
-
-    <p class="text-justify">Bientôt la description du projet 2.</p>
-
-    <p class="text-center"><a class="btn btn-info" href="#" role="button"><span class="glyphicon glyphicon-cog"></span> En savoir plus sur le projet 2</a></p>
-
-  </div>
-
-  <div class="col-md-4">
-    <h4>Projet 3</h4>
-
-    <p class="text-justify">Bientôt la description du projet 3.</p>
-
-    <p class="text-center"><a class="btn btn-info" href="#" role="button"><span class="glyphicon glyphicon-cog"></span> En savoir plus sur le projet 3</a></p>
+    <p class="text-center"><a class="btn btn-info" href="projects/gzzzt.html" role="button"><span class="glyphicon glyphicon-cog"></span> En savoir plus sur <strong>Gzzzt</strong></a></p>
 
 
-    <h4>Projet 4</h4>
+    <h4>Life After Earth III</h4>
 
-    <p class="text-justify">Bientôt la description du projet 4.</p>
+    <p class="text-justify">Bientôt la description du projet Life After Earth III.</p>
 
-    <p class="text-center"><a class="btn btn-info" href="#" role="button"><span class="glyphicon glyphicon-cog"></span> En savoir plus sur le projet 4</a></p>
+    <p class="text-center"><a class="btn btn-info" href="projects/life_after_earth_iii.html" role="button"><span class="glyphicon glyphicon-cog"></span> En savoir plus sur <strong>Life After Earth III</strong></a></p>
 
   </div>
 
   <div class="col-md-4">
-    <h4>Projet 5</h4>
+    <h4>P.I.R.A.T.E.S.</h4>
 
-    <p class="text-justify">Bientôt la description du projet 5.</p>
+    <p class="text-justify">Bientôt la description du projet P.I.R.A.T.E.S.</p>
 
-    <p class="text-center"><a class="btn btn-info" href="#" role="button"><span class="glyphicon glyphicon-cog"></span> En savoir plus sur le projet 5</a></p>
+    <p class="text-center"><a class="btn btn-info" href="projects/pirates.html" role="button"><span class="glyphicon glyphicon-cog"></span> En savoir plus sur <strong>P.I.R.A.T.E.S.</strong></a></p>
+
+
+    <h4>Sky Piercer</h4>
+
+    <p class="text-justify">Bientôt la description du projet Sky Piercer.</p>
+
+    <p class="text-center"><a class="btn btn-info" href="projects/sky_piercer.html" role="button"><span class="glyphicon glyphicon-cog"></span> En savoir plus sur <strong>Sky Piercer</strong></a></p>
+
+  </div>
+
+  <div class="col-md-4">
+    <h4>Templight</h4>
+
+    <p class="text-justify">Bientôt la description du projet Templight.</p>
+
+    <p class="text-center"><a class="btn btn-info" href="projects/templight.html" role="button"><span class="glyphicon glyphicon-cog"></span> En savoir plus sur <strong>Templight</strong></a></p>
   </div>
 
 </div>

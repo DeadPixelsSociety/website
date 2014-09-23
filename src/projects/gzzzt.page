@@ -1,0 +1,54 @@
+---
+short_title: Gzzzt
+title: <span class="glyphicon glyphicon-cog"></span> Gzzzt
+in_menu: false
+sort_info: 200
+---
+
+<h2><span class="glyphicon glyphicon-cog"></span> Gzzzt <small>2014&ndash;2015</small></h2>
+
+<div class="row">
+  <div class="col-md-4">
+    <h3><span class="glyphicon glyphicon-search"></span> Description</h3>
+
+    <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim.</p>
+
+    <p class="text-justify">Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit.</p>
+
+  </div>
+
+  <div class="col-md-4">
+    <h3><span class="glyphicon glyphicon-camera"></span> Captures d'écran</h3>
+
+    <div class="thumbnail">
+      <img src="placeholder.jpg" class="img-responsive" alt="Placeholder" />
+    </div>
+  </div>
+
+  <div class="col-md-4">
+    <h3><span class="glyphicon glyphicon-user"></span> Équipe</h3>
+
+    <ul>
+      <li>Prénom NOM, rôle</li>
+      <li>Prénom NOM, rôle</li>
+      <li>Prénom NOM, rôle</li>
+      <li>Prénom NOM, rôle</li>
+      <li>Prénom NOM, rôle</li>
+      <li>Prénom NOM, rôle</li>
+      <li>Prénom NOM, rôle</li>
+      <li>Prénom NOM, rôle</li>
+      <li>Prénom NOM, rôle</li>
+      <li>Prénom NOM, rôle</li>
+    </ul>
+
+    <h3><span class="glyphicon glyphicon-paperclip"></span> Informations</h3>
+
+    <ul>
+      <li>Licence&nbsp;: <a href="http://opensource.org/licenses">Licence Bar</a></li>
+      <li>Sources&nbsp;: <a href="https://github.com/DeadPixelsSociety">DeadPixelsSociety/Foo</a></li>
+    </ul>
+  </div>
+
+</div>
+
+
