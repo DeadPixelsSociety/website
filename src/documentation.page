@@ -28,6 +28,7 @@ sort_info: 40
       <li><a href="media/tilemap.pdf">Décor à base de tuiles</a></li>
       <li><a href="media/physics.pdf">Moteur physique&nbsp;: force, vitesse et position</a></li>
       <li><a href="media/collisions.pdf">Moteur physique&nbsp;: collisions</a></li>
+      <li><a href="media/game_networking.pdf">Architecture d'un jeu vidéo en réseau</a></li>
     </ul>
 
     <ul>
