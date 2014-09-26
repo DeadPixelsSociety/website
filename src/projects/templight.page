@@ -29,8 +29,15 @@ sort_info: 200
     <h3><span class="glyphicon glyphicon-user"></span> Équipe</h3>
 
     <ul>
-      <li>Jordan MARTIN, développement</li>
-      <li>...</li>
+      <li>Kévin BOULALA, développement, scénario</li>
+      <li>Nathan GODARD, polyvalent</li>
+      <li>Quentin GUILLIEN, developpement</li>
+      <li>Antoine LAVIER, développement, musique</li>
+      <li>Andy MAHAZOASY, développement</li>
+      <li>Julien MAIRE, développement</li>
+      <li>Jordan MARTIN, scénario, level design, développement</li>
+      <li>Teddy VALLAR, développement, level design</li>
+      <li>Thomas WESTERMANN, développement, graphisme</li>
       <!--
       <li>Prénom NOM, rôle</li>
       -->
@@ -45,5 +52,3 @@ sort_info: 200
   </div>
 
 </div>
-
-
