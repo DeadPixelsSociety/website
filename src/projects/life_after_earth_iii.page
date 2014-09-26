@@ -29,8 +29,24 @@ sort_info: 200
     <h3><span class="glyphicon glyphicon-user"></span> Équipe</h3>
 
     <ul>
-      <li>Arthur HUGEAT, développement</li>
-      <li>...</li>
+      <li>Charles-Edouard ABOUT</li>
+      <li>Fabrice BEAUCHET</li>
+      <li>Alexis BEAUJON</li>
+      <li>Elodie BERNARD</li>
+      <li>Clément BOURQUIN</li>
+      <li>Mathieu BRILAND</li>
+      <li>Amélie DOINEAU</li>
+      <li>Francis FOURNIER</li>
+      <li>Arthur HUGEAT</li>
+      <li>Ali JEMAÏ</li>
+      <li>Joseph KIEFFER</li>
+      <li>Victor MENIER</li>
+      <li>Bérenger OSSETE GOMBE</li>
+      <li>Aurélien PARDON</li>
+      <li>Guillaume PÉGEOT</li>
+      <li>Naum SPASESKI</li>
+      <li>Vincent TRAVERS</li>
+      <li>Lauriane VOIRON</li>
       <!--
       <li>Prénom NOM, rôle</li>
       -->
