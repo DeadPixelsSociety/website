@@ -31,7 +31,7 @@ sort_info: 20
   <div class="col-md-4">
     <h4>Perce Ciel</h4>
 
-    <p class="text-justify">Bientôt la description du projet Perce Ciel.</p>
+    <p class="text-justify">Perce Ciel est un jeu de type bac à sable qui vous amènera à construire une tour démesurée à travers les cieux. Elle vous donnera accès à une multitude de mondes qu'il vous faudra exploiter, mais dans lesquels il vous faudra aussi survivre, pour atteindre le paradis.</p>
 
     <p class="text-center"><a class="btn btn-info" href="projects/perce_ciel.html" role="button"><span class="glyphicon glyphicon-cog"></span> En savoir plus sur <strong>Perce Ciel</strong></a></p>
 
