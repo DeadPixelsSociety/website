@@ -55,8 +55,8 @@ sort_info: 200
     <h3><span class="glyphicon glyphicon-paperclip"></span> Informations</h3>
 
     <ul>
-      <li>Licence&nbsp;: <a href="http://opensource.org/licenses">Licence Bar</a></li>
-      <li>Sources&nbsp;: <a href="https://github.com/DeadPixelsSociety">DeadPixelsSociety/Foo</a></li>
+      <li>Licence&nbsp;: <a href="http://opensource.org/licenses/AGPL-3.0">AGPL 3.0</a></li>
+      <li>Sources&nbsp;: <a href="https://github.com/DeadPixelsSociety/LifeAfterEarthIII">DeadPixelsSociety/LifeAfterEarthIII</a></li>
     </ul>
   </div>
 
