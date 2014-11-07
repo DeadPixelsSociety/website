@@ -9,10 +9,12 @@ sort_info: 20
 
 <p class="alert alert-info">Les projets sont disponibles sur <a href="https://github.com/DeadPixelsSociety" class="alert-link">le compte github <tt>DeadPixelsSociety</tt></a>.</p>
 
+<h3>Année 2014&ndash;2015</h3>
+
 <div class="row">
-  <h3>Année 2014&ndash;2015</h3>
 
   <div class="col-md-4">
+
     <h4>Gzzzt</h4>
 
     <p class="text-justify">Seuls sur Terre, les robots se livrent une guerre sans merci. Armé de boules à éclairs, combattez vos congénères dans des arènes infernales. Un seul mot d'ordre : survivre.</p>
