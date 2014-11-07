@@ -69,7 +69,15 @@ sort_info: 40
     <h5>Généralités</h5>
 
     <ul>
-      <li><a href="http://www.koonsolo.com/news/dewitters-gameloop/">Game Loop</a></li>
+      <li><a href="http://gameprogrammingpatterns.com/">Game Programming Patterns</a></li>
+    </ul>
+
+    <h5>Boucle de jeu</h5>
+
+    <ul>
+      <li><a href="http://gameprogrammingpatterns.com/game-loop.html">Game Loop</a></li>
+      <li><a href="http://www.koonsolo.com/news/dewitters-gameloop/">deWiTTERS Game Loop</a></li>
+      <li><a href="http://www.gameprogblog.com/generic-game-loop/">Generic Game Loop</a></li>
     </ul>
 
     <h5>Graphisme</h5>
@@ -91,8 +99,8 @@ sort_info: 40
     <h5>Réseau</h5>
 
     <ul>
-      <li><a href="http://1024monkeys.wordpress.com/2014/04/01/game-servers-udp-vs-tcp/">Game servers: UDP vs TCP</a></li>
       <li><a href="http://gafferongames.com/networking-for-game-programmers/">Game Networking</a></li>
+      <li><a href="http://1024monkeys.wordpress.com/2014/04/01/game-servers-udp-vs-tcp/">Game servers: UDP vs TCP</a></li>
       <li><a href="http://gafferongames.com/game-physics/networked-physics/">Networked Physics</a></li>
       <li><a href="https://developer.valvesoftware.com/wiki/Latency_Compensating_Methods_in_Client/Server_In-game_Protocol_Design_and_Optimization">Latency Compensating Methods in Client/Server In-game Protocol Design and Optimization</a></li>
     </ul>
@@ -112,6 +120,13 @@ sort_info: 40
       <li><a href="http://theory.stanford.edu/~amitp/GameProgramming/">Amit’s A* Pages</a></li>
       <li><a href="http://www.redblobgames.com/pathfinding/tower-defense/">Pathfinding for Tower Defense</a></li>
       <li><a href="http://qiao.github.io/PathFinding.js/visual/">PathFinding.js</a></li>
+    </ul>
+
+    <h5>Aspects légaux</h5>
+
+    <ul>
+      <li><a href="http://choosealicense.com/">Choosing an OSS license doesn’t need to be scary</a></li>
+      <li><a href="http://gamedevelopment.tutsplus.com/articles/understanding-licenses-or-can-i-use-this-asset-in-my-game--cms-22510">Understanding Licenses, or, "Can I Use This Asset In My Game?"</a></li>
     </ul>
 
   </div>
