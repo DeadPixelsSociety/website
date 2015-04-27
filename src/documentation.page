@@ -165,7 +165,11 @@ sort_info: 40
     <ul>
       <li><a href="http://www.mapeditor.org/">Tiled</a>&nbsp;: un éditeur de décor et de carte à base de tuiles pour les jeux vidéo</li>
       <li><a href="http://devnewton.bci.im/fr/softwares/nanim">Nanim</a>&nbsp;: un format d'animation 2D basé sur protobuf pour les jeux vidéo</li>
+    </ul>
+
+    <ul>
       <li><a href="http://polycode.org/">Polycode</a>&nbsp;: un moteur de jeu 2D et 3D en C++ avec un éditeur</li>
+      <li><a href="http://www.godotengine.org/">Godot</a>&nbsp;: un moteur de jeu 2D et 3D en C++ avec un éditeur</li>
       <li><a href="http://love2d.org/">LÖVE</a>&nbsp; un moteur de jeu 2D basé sur des scripts en Lua</li>
     </ul>
 
