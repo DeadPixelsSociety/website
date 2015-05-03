@@ -40,8 +40,8 @@ sort_info: 200
     <h3><span class="glyphicon glyphicon-paperclip"></span> Documents administratifs</h3>
 
     <ul>
-      <li><a href="">Statuts de l'association «Dead Pixels Society»</a>, <small>27 avril 2015</small></li>
-      <li><a href="">Règlement intérieur de l'association «Dead Pixels Society»</a>, <small>27 avril 2015</small></li>
+      <li><a href="media/statuts.pdf">Statuts de l'association «Dead Pixels Society»</a>, <small>27 avril 2015</small></li>
+      <li><a href="media/reglement_interieur.pdf">Règlement intérieur de l'association «Dead Pixels Society»</a>, <small>27 avril 2015</small></li>
     </ul>
 
     <p>Ces documents sont archivés sur le <a href="https://github.com/DeadPixelsSociety/association">dépôt git du club</a></p>
@@ -49,7 +49,7 @@ sort_info: 200
     <h4>Procès verbaux des assemblées générales</h4>
 
     <ul>
-      <li><a href="">Assemblée générale constitutive</a>, <small>27 avril 2015</small></li>
+      <li><a href="media/pv_assemblee_constitutive.pdf">Assemblée générale constitutive</a>, <small>27 avril 2015</small></li>
     </ul>
 
   </div>
