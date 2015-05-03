@@ -1,0 +1,58 @@
+---
+short_title: Association
+title: <span class="glyphicon glyphicon-info-sign"></span> Association
+in_menu: false
+sort_info: 200
+---
+
+<h2><span class="glyphicon glyphicon-info-sign"></span> Association</h2>
+
+<div class="row">
+  <div class="col-md-6">
+    <h3><span class="glyphicon glyphicon-certificate"></span> Objet</h3>
+
+    <p>Le club s'est constitué en <a href="http://fr.wikipedia.org/wiki/Association_loi_de_1901">association loi de 1901</a> en avril 2015. Selon ses status, le club a pour objet&nbsp;:</p>
+
+    <ul>
+      <li>la production et le développement de jeux vidéo&nbsp;;</li>
+      <li>l'organisation d'événements autour du développement de jeux vidéo de type «<a href="http://fr.wikipedia.org/wiki/Game_jam">game jam</a>»&nbsp;;</li>
+      <li>la mise en place et la maintenance de serveurs de jeu pour les jeux produits par l'association&nbsp;;</li>
+      <li>la vente des jeux produits par l'association ou de services de jeux produits par l'association.</li>
+    </ul>
+
+
+    <h3><span class="glyphicon glyphicon-user"></span> Bureau</h3>
+
+    <p>Le bureau actuel de l'association est composé de:</p>
+
+    <ul>
+      <li><strong>Julien Bernard</strong>, président</li>
+      <li><strong>Frédéric Dadeau</strong>, trésorier</li>
+    </ul>
+
+    <div class="alert alert-info" role="alert">
+      <p><strong>Attention&nbsp;!</strong> Ce bureau est provisoire jusqu'à la première élection en assemblée générale qui aura lieu en décembre 2015.</p>
+    </div>
+
+  </div>
+
+  <div class="col-md-6">
+    <h3><span class="glyphicon glyphicon-paperclip"></span> Documents administratifs</h3>
+
+    <ul>
+      <li><a href="">Statuts de l'association «Dead Pixels Society»</a>, <small>27 avril 2015</small></li>
+      <li><a href="">Règlement intérieur de l'association «Dead Pixels Society»</a>, <small>27 avril 2015</small></li>
+    </ul>
+
+    <p>Ces documents sont archivés sur le <a href="https://github.com/DeadPixelsSociety/association">dépôt git du club</a></p>
+
+    <h4>Procès verbaux des assemblées générales</h4>
+
+    <ul>
+      <li><a href="">Assemblée générale constitutive</a>, <small>27 avril 2015</small></li>
+    </ul>
+
+  </div>
+</div>
+
+
