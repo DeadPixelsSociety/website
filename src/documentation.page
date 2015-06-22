@@ -148,7 +148,7 @@ sort_info: 40
     <h4>C++ et ses bibliothèques</h4>
 
     <ul>
-      <li><a href="http://henri.garreta.perso.luminy.univmed.fr/Polys/PolyCpp.pdf">Le langage C++ [pdf]</a>&nbsp;: un polycopié pour apprendre les spécificités de C++</li>
+      <li><a href="http://h.garreta.free.fr/polys/PolyCpp.pdf">Le langage C++ [pdf]</a>&nbsp;: un polycopié pour apprendre les spécificités de C++</li>
       <li><a href="http://en.cppreference.com/w/cpp">C++ reference</a>&nbsp;: la documentation très complète de la bibliothèque standard du C++</li>
       <li><a href="https://isocpp.org/faq">C++ FAQ</a>&nbsp;: des réponses à toutes les questions que vous vous posez à propos de C++</li>
       <li><a href="http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml">Google C++ Style Guide</a>&nbsp;: des recommandations parfois utiles sur les conventions en C++</li>
@@ -171,7 +171,20 @@ sort_info: 40
     <ul>
       <li><a href="http://polycode.org/">Polycode</a>&nbsp;: un moteur de jeu 2D et 3D en C++ avec un éditeur</li>
       <li><a href="http://www.godotengine.org/">Godot</a>&nbsp;: un moteur de jeu 2D et 3D en C++ avec un éditeur</li>
+      <li><a href="http://urho3d.github.io/">Urho3D</a>&nbsp; un moteur de jeu 2D et 3D en C++ utilisable via Lua</li>
       <li><a href="http://love2d.org/">LÖVE</a>&nbsp; un moteur de jeu 2D basé sur des scripts en Lua</li>
+    </ul>
+
+    <h4>Resources graphiques et sonores</h4>
+
+    <ul>
+      <li><a href="http://opengameart.org/">OpenGameArt.org</a>
+        <ul>
+          <li><a href="http://opengameart.org/users/yughues">yughues: des textures en tout genre</a></li>
+          <li><a href="http://opengameart.org/content/terrain-transitions">Terrain transitions: des tilesets compatibles avec Tiled</a></li>
+        </ul>
+      </li>
+      <li><a href="http://www.kenney.nl/assets">Kenney's assets</a></li>
     </ul>
 
     <h4>Git</h4>
