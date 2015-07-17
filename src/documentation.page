@@ -109,7 +109,7 @@ sort_info: 40
     <ul>
       <li><a href="http://gafferongames.com/networking-for-game-programmers/">Game Networking</a></li>
       <li><a href="http://1024monkeys.wordpress.com/2014/04/01/game-servers-udp-vs-tcp/">Game servers: UDP vs TCP</a></li>
-      <li><a href="http://gafferongames.com/game-physics/networked-physics/">Networked Physics</a></li>
+      <li><a href="http://gafferongames.com/networked-physics/introduction-to-networked-physics/">Networked Physics</a></li>
       <li><a href="https://developer.valvesoftware.com/wiki/Latency_Compensating_Methods_in_Client/Server_In-game_Protocol_Design_and_Optimization">Latency Compensating Methods in Client/Server In-game Protocol Design and Optimization</a></li>
     </ul>
 
