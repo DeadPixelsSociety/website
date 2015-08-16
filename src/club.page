@@ -15,7 +15,7 @@ sort_info: 30
 
     <div id="map"></div>
 
-    <p class="text-justify">Le club est ouvert à tous les étudiants de l'Université de Franche-Comté. Il est encadré par des enseignants-chercheurs du <a href="https://dept-info.univ-fcomte.fr/">Département Informatique de l'UFR Sciences et Techniques</a> qui participent également aux différents projets. Depuis avril 2015, le club est une <a href="association.html">association</a>.</p>
+    <p class="text-justify">Le club est ouvert à tous, que ce soit les étudiants de l'Université de Franche-Comté ou des personnes extérieures à l'université. Il est encadré par des enseignants-chercheurs du <a href="https://dept-info.univ-fcomte.fr/">Département Informatique de l'UFR Sciences et Techniques</a> qui participent également aux différents projets. Depuis avril 2015, le club s'est constitué en une <a href="association.html">association</a>.</p>
 
     <h3><span class="glyphicon glyphicon-envelope"></span> Adresse postale</h3>
 
@@ -35,6 +35,9 @@ sort_info: 30
       <dt>Je ne suis pas étudiant en informatique, puis-je participer au club ?</dt>
       <dd>Oui ! Il y a beaucoup de compétences à avoir pour développer un jeu vidéo en dehors de l'informatique. On peut citer le graphisme (pour les sprites), la musique (pour les sons et l'ambiance), la physique (pour les moteurs physiques), les mathématiques (pour la géométrie), la littérature (pour les scénarios), l'histoire (pour le contexte du jeu), l'économie (pour l'équilibre des règles), etc.</dd>
 
+      <dt>Je ne suis pas étudiant, puis-je participer au club ?</dt>
+      <dd>Oui ! Le club est autorisé à accueillir des personnes extérieures à l'université. Vous pouvez donc tout à fait nous rejoindre et participer aux activités du club comme n'importe quel autre membre.</dd>
+
       <dt>Y a-t-il une cotisation à payer ?</dt>
       <dd>Oui. La cotisation est de 2€ pour l'année. Le Département Informatique soutient le club au niveau matériel. Le club dispose ainsi d'ordinateurs portables de récupération qu'il est possible d'utiliser pendant les sessions du club.</dd>
 
@@ -52,7 +55,7 @@ sort_info: 30
 
     <h3><span class="glyphicon glyphicon-fast-backward"></span> Historique du club</h3>
 
-    <p>Le club est né en 2014 et a inauguré ses premières activités à la rentrée de septembre 2014. Après un an de rodage, le club évolue en une <a href="association.html">structure associative</a>.</p>
+    <p>Le club est né en 2014 et a inauguré ses premières activités à la rentrée de septembre 2014. Après un an de rodage, le club évolue en une <a href="association.html">structure associative</a> et s'ouvre vers l'extérieur.</p>
 
   </div>
 </div>
