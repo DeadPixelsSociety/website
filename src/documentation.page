@@ -69,6 +69,7 @@ sort_info: 40
     <h5>Conception</h5>
 
     <ul>
+      <li><a href="http://gamedevelopment.tutsplus.com/tutorials/bringing-your-game-to-life-in-10-simple-steps--cms-23447">Bringing Your Game to Life in 10 Simple Steps</a></li>
       <li><a href="http://gamedevelopment.tutsplus.com/articles/how-and-why-to-write-a-great-game-design-document--cms-23545">How (and Why) to Write a Great Game Design Document</a></li>
     </ul>
 
@@ -77,6 +78,7 @@ sort_info: 40
     <ul>
       <li><a href="http://gameprogrammingpatterns.com/">Game Programming Patterns</a></li>
       <li><a href="http://gamedev.stackexchange.com/questions/4157/what-are-some-programming-design-patterns-that-are-useful-in-game-development">What are some programming design patterns that are useful in game development?</a></li>
+      <li><a href="http://www-cs-students.stanford.edu/~amitp/gameprog.html">Amit’s Game Programming Information</a></li>
     </ul>
 
     <h5>Boucle de jeu</h5>
@@ -119,6 +121,7 @@ sort_info: 40
       <li><a href="http://pcg.wikidot.com/articles">Procedural Content Generation Wiki</a></li>
       <li><a href="http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/">Polygonal Map Generation for Games</a></li>
       <li><a href="http://www.gamedev.net/page/resources/_/technical/game-programming/procedural-level-generation-for-a-2d-platformer-r3794">Procedural Level Generation for a 2D Platformer</a></li>
+      <li><a href="http://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/">Rooms and Mazes: A Procedural Dungeon Generator</a></li>
       <li><a href="http://www.gamasutra.com/view/feature/130071/random_scattering_creating_.php">Random Scattering: Creating Realistic Landscapes</a></li>
     </ul>
 
@@ -155,7 +158,7 @@ sort_info: 40
     </ul>
 
     <ul>
-      <li><a href="http://www.boost.org/">Boost</a>&nbsp;: une collection de bibliothèques C++ de grande qualité et portables (<a href="http://www.boost.org/doc/libs/">documentation</a>)</li>
+      <li><a href="http://www.boost.org/">Boost</a>&nbsp;: une collection de bibliothèques C++ de grande qualité et portables (<a href="http://www.boost.org/doc/libs/">documentation</a>, <a href="http://theboostcpplibraries.com/">livre</a>)</li>
       <li><a href="http://sfml-dev.org/"><abbr title="Simple and Fast Multimedia Library">SFML</abbr></a>&nbsp;: une bibliothèque graphique complète en C++ et multi-plateforme (<a href="http://www.sfml-dev.org/learn.php">documentation</a>)</li>
       <li><a href="http://www.libsdl.org/"><abbr title="Simple DirectMedia Layer">SDL</abbr></a>&nbsp;: une bibliothèque graphique complète en C et multi-plateforme (<a href="http://wiki.libsdl.org/APIByCategory">documentation</a>)</li>
       <li><a href="http://box2d.org/">Box2D</a>&nbsp;: un moteur physique 2D conçu pour les jeux vidéo (<a href="http://www.iforce2d.net/b2dtut/">tutoriels</a>)</li>
@@ -180,8 +183,9 @@ sort_info: 40
     <ul>
       <li><a href="http://opengameart.org/">OpenGameArt.org</a>
         <ul>
-          <li><a href="http://opengameart.org/users/yughues">yughues: des textures en tout genre</a></li>
-          <li><a href="http://opengameart.org/content/terrain-transitions">Terrain transitions: des tilesets compatibles avec Tiled</a></li>
+          <li><a href="http://opengameart.org/content/liberated-pixel-cup-0">Liberated Pixel Cup (tilesets)</a></li>
+          <li><a href="http://opengameart.org/content/terrain-transitions">Terrain transitions (tilesets)</a></li>
+          <li><a href="http://opengameart.org/users/yughues">yughues (textures)</a></li>
         </ul>
       </li>
       <li><a href="http://www.kenney.nl/assets">Kenney's assets</a></li>
