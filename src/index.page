@@ -27,15 +27,12 @@ sort_info: 10
   <div class="col-md-4">
     <h3><span class="glyphicon glyphicon-cog"></span> Projets</h3>
 
-    <p class="text-justify">Chaque année, un ou plusieurs projets sont développés. Il n'y a aucune contrainte sinon que chaque projet doit réunir au moins une dizaine de personnes. Après, il est possible de choisir à peu près n'importe quel <a href="http://fr.wikipedia.org/wiki/Type_de_jeu_vid%C3%A9o">genre de jeu vidéo</a>.</p>
+    <p class="text-justify">Chaque année, un ou plusieurs projets sont développés. Il n'y a aucune contrainte sinon que chaque projet doit réunir une équipe motivée. Après, il est possible de choisir à peu près n'importe quel <a href="http://fr.wikipedia.org/wiki/Type_de_jeu_vid%C3%A9o">genre de jeu vidéo</a>.</p>
 
-    <p>Pour cette année (2014-2015), voici le(s) projet(s)&nbsp;:</p>
+    <p>Pour cette année (2015-2016), voici les projets&nbsp;:</p>
     <ul>
-      <li><strong><a href="projects/gzzzt.html">Gzzzt</a></strong></li>
-      <li><strong><a href="projects/life_after_earth_iii.html">Life After Earth III</a></strong></li>
-      <li><strong><a href="projects/perce_ciel.html">Perce Ciel</a></strong></li>
-      <li><strong><a href="projects/pirates.html">P.I.R.A.T.E.S.</a></strong></li>
-      <li><strong><a href="projects/templight.html">Templight</a></strong></li>
+      <li>À venir.</li>
+      <!-- <li><strong><a href="projects/template.html">???</a></strong></li> -->
     </ul>
 
     <p class="text-center"><a class="btn btn-info" href="projects.html" role="button"><span class="glyphicon glyphicon-cog"></span> En savoir plus sur les Projets</a></p>
