@@ -14,37 +14,24 @@ sort_info: 10
 </div>
 
 <div class="row">
-  <div class="col-md-4">
+  <div class="col-md-6">
     <h3><span class="glyphicon glyphicon-star"></span> À propos</h3>
 
     <p class="text-justify">Dead Pixels Society (DPS pour les intimes) est le club de développement de <a href="http://fr.wikipedia.org/wiki/Jeu_vid%C3%A9o">jeux vidéo</a> de l'<a href="http://www.univ-fcomte.fr/">Université de Franche-Comté</a>. Il est ouvert à tous ceux qui souhaitent participer, peu importe leur formation et leur niveau.</p>
 
     <p class="text-justify">L'idée du club est de développer de manière collaborative un jeu vidéo, depuis la conception initiale jusqu'aux tests du jeu fini. Chacun apporte ses compétences et sa bonne humeur pour faire progresser le projet auquel il participe.</p>
 
-    <p class="text-center"><a class="btn btn-info" href="news.html" role="button"><span class="glyphicon glyphicon-time"></span> Lire les nouvelles du club</a></p>
+    <p class="text-justify">Chaque année, un ou plusieurs projets sont développés. Il n'y a aucune contrainte sinon que chaque projet doit réunir une équipe motivée. Après, il est possible de choisir à peu près n'importe quel <a href="http://fr.wikipedia.org/wiki/Type_de_jeu_vid%C3%A9o">genre de jeu vidéo</a> et n'importe quelle technologie.</p>
+
+    <p>Les projets sont disponibles sur <a href="https://github.com/DeadPixelsSociety" class="alert-link">le compte github <tt>DeadPixelsSociety</tt></a>.</p>
   </div>
 
-  <div class="col-md-4">
-    <h3><span class="glyphicon glyphicon-cog"></span> Projets</h3>
-
-    <p class="text-justify">Chaque année, un ou plusieurs projets sont développés. Il n'y a aucune contrainte sinon que chaque projet doit réunir une équipe motivée. Après, il est possible de choisir à peu près n'importe quel <a href="http://fr.wikipedia.org/wiki/Type_de_jeu_vid%C3%A9o">genre de jeu vidéo</a>.</p>
-
-    <p>Pour cette année (2015-2016), voici les projets&nbsp;:</p>
-    <ul>
-      <li>À venir.</li>
-      <!-- <li><strong><a href="projects/template.html">???</a></strong></li> -->
-    </ul>
-
-    <p class="text-center"><a class="btn btn-info" href="projects.html" role="button"><span class="glyphicon glyphicon-cog"></span> En savoir plus sur les Projets</a></p>
-  </div>
-
-  <div class="col-md-4">
+  <div class="col-md-6">
     <h3><span class="glyphicon glyphicon-info-sign"></span> Club</h3>
 
     <p class="text-justify">Le club se réunit tous les <strong>mardi de 18h00 à 19h30</strong> en <strong>salle 401C de l'UFR Sciences et Techniques</strong>. Si vous êtes intéressés, n'hésitez pas à passer et à venir discuter, nous répondrons à toutes vos questions.</p>
 
     <p class="text-center"><a class="btn btn-info" href="club.html" role="button"><span class="glyphicon glyphicon-info-sign"></span> En savoir plus sur le Club</a></p>
-
   </div>
 </div>
 

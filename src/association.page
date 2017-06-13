@@ -1,11 +1,11 @@
 ---
 short_title: Association
-title: <span class="glyphicon glyphicon-info-sign"></span> Association
-in_menu: false
-sort_info: 200
+title: <span class="glyphicon glyphicon-cog"></span> Association
+in_menu: true
+sort_info: 30
 ---
 
-<h2><span class="glyphicon glyphicon-info-sign"></span> Association</h2>
+<h2><span class="glyphicon glyphicon-cog"></span> Association</h2>
 
 <div class="row">
   <div class="col-md-6">
@@ -28,13 +28,10 @@ sort_info: 200
     <p>Le bureau actuel de l'association est composé de:</p>
 
     <ul>
-      <li><strong>Julien Bernard</strong>, président</li>
-      <li><strong>Frédéric Dadeau</strong>, trésorier</li>
+      <li><strong>Marie Smolinski</strong>, présidente</li>
+      <li><strong>Simon Gigant</strong>, trésorier</li>
+      <li><strong>Cynthia Maillard</strong>, secrétaire</li>
     </ul>
-
-    <div class="alert alert-info" role="alert">
-      <p><strong>Attention&nbsp;!</strong> Ce bureau est provisoire jusqu'à la première élection en assemblée générale qui aura lieu en décembre 2015.</p>
-    </div>
 
   </div>
 
@@ -54,6 +51,7 @@ sort_info: 200
 
     <ul>
       <li><a href="media/pv_assemblee_constitutive.pdf">Assemblée générale constitutive</a>, <small>27 avril 2015</small></li>
+      <li><a href="media/pv_ag_201703.pdf">Assemblée générale 2017</a>, <small>28 mars 2017</small></li>
     </ul>
 
   </div>
