@@ -31,10 +31,6 @@ sort_info: 40
       <li><a href="media/game_networking.pdf">Architecture d'un jeu vidéo en réseau</a></li>
     </ul>
 
-    <ul>
-      <li><a href="media/game-0.1.0-src.tar.gz">Kit de démarrage C++/SFML2</a></li>
-    </ul>
-
     <h4>Communication</h4>
 
     <div class="thumbnail">
@@ -159,6 +155,7 @@ sort_info: 40
 
     <ul>
       <li><a href="http://www.boost.org/">Boost</a>&nbsp;: une collection de bibliothèques C++ de grande qualité et portables (<a href="http://www.boost.org/doc/libs/">documentation</a>, <a href="http://theboostcpplibraries.com/">livre</a>)</li>
+      <li><strong><a href="http://gamedevframework.github.io/">Gamedev Framework (gf)</a></strong>&nbsp;: une bibliothèque graphique complète en C++ et multiplateforme</li>
       <li><a href="http://sfml-dev.org/"><abbr title="Simple and Fast Multimedia Library">SFML</abbr></a>&nbsp;: une bibliothèque graphique complète en C++ et multi-plateforme (<a href="http://www.sfml-dev.org/learn.php">documentation</a>)</li>
       <li><a href="http://www.libsdl.org/"><abbr title="Simple DirectMedia Layer">SDL</abbr></a>&nbsp;: une bibliothèque graphique complète en C et multi-plateforme (<a href="http://wiki.libsdl.org/APIByCategory">documentation</a>)</li>
       <li><a href="http://box2d.org/">Box2D</a>&nbsp;: un moteur physique 2D conçu pour les jeux vidéo (<a href="http://www.iforce2d.net/b2dtut/">tutoriels</a>)</li>
