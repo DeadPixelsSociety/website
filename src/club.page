@@ -11,7 +11,7 @@ sort_info: 30
   <div class="col-md-6">
     <h3><span class="glyphicon glyphicon-wrench"></span> Fonctionnement du club</h3>
 
-    <p class="text-justify">Le club se réunit tous les <strong>mardi de 18h00 à 19h30</strong> (en dehors des vacances universitaires) en <strong>salle 401C de l'UFR Sciences et Techniques</strong> (4<sup>è</sup> étage de l'aile C du bâtiment Métrologie). Pour vous y rendre, consultez <a href="http://sciences.univ-fcomte.fr/pages/fr/menu3795/ufr-st/plans-15171.html">le plan d'accès disponible sur le site de l'UFR Sciences et Techniques</a> ou via <a href="http://www.openstreetmap.org/#map=18/47.24535/5.98747">OpenStreetMap</a>.</p>
+    <p class="text-justify">Le club se réunit tous les <strong>mardi de 18h00 à 19h30</strong> (en dehors des vacances universitaires) en <strong>salle 501C de l'UFR Sciences et Techniques</strong> (5<sup>è</sup> étage de l'aile C du bâtiment Métrologie). Pour vous y rendre, consultez <a href="http://sciences.univ-fcomte.fr/pages/fr/menu3795/ufr-st/plans-15171.html">le plan d'accès disponible sur le site de l'UFR Sciences et Techniques</a> ou via <a href="http://www.openstreetmap.org/#map=18/47.24535/5.98747">OpenStreetMap</a>.</p>
 
     <div id="map"></div>
 
