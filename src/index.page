@@ -13,6 +13,44 @@ sort_info: 10
   <p>Venez participer à la création d'un jeu vidéo complet à l'Université de Franche-Comté&nbsp;!</p>
 </div>
 
+<div class="row>
+  <h3><span class="glyphicon glyphicon-fire"></span> Jeux à l'affiche</h3>
+  <div class="thumbnail">
+    <img src="media/collabots.png" alt="image jeu collabots" class="img-rounded">
+    <div class="caption">
+      <h3>Collabots</h3>
+      <p>Apprenez les bases de l'algorithmique dans ce jeu fait pour les 6-12 ans. Communiquez, discutez et collaborez pour résoudre les 20 différents puzzles disponibles.</p>
+      <p>
+        <a href="http://dps.univ-fcomte.fr/collabots/" class="btn btn-primary" role="button">Jouer</a>
+      </p>
+    </div>
+  </div>
+
+  <div class="thumbnail">
+    <img src="..." alt="..." class="img-rounded">
+    <div class="caption">
+      <h3>...</h3>
+      <p>...</p>
+      <p>
+        <a href="#" class="btn btn-primary" role="button">Jouer</a>
+      </p>
+    </div>
+  </div>
+
+  <div class="thumbnail">
+    <img src="..." alt="..." class="img-rounded">
+    <div class="caption">
+      <h3>...</h3>
+      <p>...</p>
+      <p>
+        <a href="#" class="btn btn-primary" role="button">Jouer</a>
+      </p>
+    </div>
+  </div>
+
+
+</div>
+
 <div class="row">
   <div class="col-md-6">
     <h3><span class="glyphicon glyphicon-star"></span> À propos</h3>
