@@ -28,9 +28,10 @@ sort_info: 30
     <p>Le bureau actuel de l'association est composé de:</p>
 
     <ul>
-      <li><strong>Marie Smolinski</strong>, présidente</li>
-      <li><strong>Simon Gigant</strong>, trésorier</li>
-      <li><strong>Cynthia Maillard</strong>, secrétaire</li>
+      <li><strong>Léo VANDREPOL</strong>, président</li>
+      <li><strong>Rachel HUMBERT</strong>, trésorière</li>
+      <li><strong>Erwan MORAND</strong>, secrétaire</li>
+      <li><strong>Antonin DOLLMANN</strong>, vice-secrétaire</li>
     </ul>
 
   </div>
@@ -41,8 +42,8 @@ sort_info: 30
     <p>L'association est enregistré sous le numéro W251004411.</p>
 
     <ul>
-      <li><a href="media/statuts.pdf">Statuts de l'association «Dead Pixels Society»</a>, <small>27 avril 2015</small></li>
-      <li><a href="media/reglement_interieur.pdf">Règlement intérieur de l'association «Dead Pixels Society»</a>, <small>27 avril 2015</small></li>
+      <li><a href="media/paper/statuts.pdf">Statuts de l'association «Dead Pixels Society»</a>, <small>27 avril 2015</small></li>
+      <li><a href="media/paper/reglement_interieur.pdf">Règlement intérieur de l'association «Dead Pixels Society»</a>, <small>27 avril 2015</small></li>
     </ul>
 
     <p>Ces documents sont archivés sur le <a href="https://github.com/DeadPixelsSociety/association">dépôt git du club</a></p>
@@ -50,8 +51,10 @@ sort_info: 30
     <h4>Procès verbaux des assemblées générales</h4>
 
     <ul>
-      <li><a href="media/pv_assemblee_constitutive.pdf">Assemblée générale constitutive</a>, <small>27 avril 2015</small></li>
-      <li><a href="media/pv_ag_201703.pdf">Assemblée générale 2017</a>, <small>28 mars 2017</small></li>
+      <li><a href="media/paper/pv_assemblee_constitutive.pdf">Assemblée générale constitutive</a>, <small>27 avril 2015</small></li>
+      <li><a href="media/paper/pv_ag_201703.pdf">Assemblée générale 2017</a>, <small>28 mars 2017</small></li>
+      <li><a href="media/paper/pv_ag_202110.pdf">Assemblée générale 2021</a>, <small>5 octobre 2021</small></li>
+      <li><a href="media/paper/pv_ag_202209.pdf">Assemblée générale 2022</a>, <small>27 septembre 2022</small></li>
     </ul>
 
   </div>

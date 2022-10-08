@@ -6,7 +6,7 @@ sort_info: 10
 ---
 
 <div class="jumbotron">
-  <img src="logo.png" />
+  <img src="./media/image/logo.png" />
   <h2>Dead Pixels Society</h2>
 
 
@@ -29,16 +29,36 @@ sort_info: 10
   <div class="col-md-6">
     <h3><span class="glyphicon glyphicon-info-sign"></span> Club</h3>
 
-    <p class="text-justify">Le club se réunit tous les <strong>mardi de 18h00 à 19h30</strong> en <strong>salle 501C de l'UFR Sciences et Techniques</strong>. Si vous êtes intéressés, n'hésitez pas à passer et à venir discuter, nous répondrons à toutes vos questions.</p>
-
-    <p class="text-center"><a class="btn btn-info" href="club.html" role="button"><span class="glyphicon glyphicon-info-sign"></span> En savoir plus sur le Club</a></p>
+    <p class="text-justify">Le club se réunit tous les <strong>mardi de 18h00 à 19h30</strong> en <strong>salle 501C de l'UFR Sciences et Techniques</strong>. Si vous êtes intéressés, n'hésitez pas à <strong style="color: #72dee7">adhérer</strong> à l'association ou à venir discuter, nous répondrons à toutes vos questions.</p>
+    
+    <p class="text-center">
+      <a class="btn btn-info" href="https://www.helloasso.com/associations/dps/adhesions/2022-2023" role="button"><span class="glyphicon glyphicon-bitcoin"></span> Adhérer</a>
+      <a class="btn btn-info" href="club.html" role="button"><span class="glyphicon glyphicon-info-sign"></span> En savoir plus sur le Club</a>
+    </p>
+    
+ 
   </div>
+</div>
+
+<div class="row">
+  <h3><span class="glyphicon glyphicon-pushpin"></span> Prochain événement à venir !</h3>
+  <div class="thumbnail">
+    <img src="media/image/GGJ/GGJ2023.jpg" alt="image GGJ 2023" class="img-rounded">
+    <div class="caption">
+      <h3>GGJ 2023</h3>
+      <p class="text-justify"><strong>La Global Game Jam 2023</strong> aura lieu cette année du vendredi 3 février au soir jusqu'au dimanche 5 Février. Pour plus d'informations vous pouvez nous rejoindre sur <a href="https://discord.gg/VRMnPrss3X">Discord</a></p>
+      <p>
+        <a href="https://globalgamejam.org/2023/jam-sites/global-game-jam-besan%C3%A7on-2023" class="btn btn-primary" role="button">S'inscrire</a>
+      </p>
+    </div>
+  </div>
+
 </div>
 
 <div class="row">
   <h3><span class="glyphicon glyphicon-fire"></span> Jeux à l'affiche</h3>
   <div class="thumbnail">
-    <img src="media/collabots.png" alt="image jeu collabots" class="img-rounded">
+    <img src="media/image/collabots.png" alt="image jeu collabots" class="img-rounded">
     <div class="caption">
       <h3>Collabots</h3>
       <p>Apprenez les bases de l'algorithmique dans ce jeu fait pour les 6-12 ans. Communiquez, discutez et collaborez pour résoudre les 20 différents puzzles disponibles.</p>
